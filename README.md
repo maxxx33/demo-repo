@@ -4,8 +4,8 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on YouTube.
+Youtube Tutorial 2
 
-## Local Development 
+## Local Developement
 
 1. Open index.html in your browser
